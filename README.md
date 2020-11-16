@@ -1,1 +1,1 @@
-# bioinformatics-class
+# bioinformatics-class-project
