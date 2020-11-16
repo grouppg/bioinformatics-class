@@ -8,14 +8,12 @@ This is a program that will tkae a fasta file with a protein or DNA MSA and retu
 ## Install
 
 Clone the repository:
-'''
+
 git clone <groupg/project>
-'''
 
 Change directory into repository:
-'''
 
-cd <groupg/project> '''
+cd <groupg/project> 
 
 ## Usage
 
