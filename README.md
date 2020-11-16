@@ -23,12 +23,12 @@ First make the script executable:
 '''
 
 chmod +x get_consensus_seq.y '''
-Run the script:
+## Run the script:
 ./get_consensus_seq.py protein.fasta '''
-Get help:
+## Get help:
 '''
 
 ./get_consensus_seq.py --help '''
 
 ## Author
-* <Kenny>
+Kenny
