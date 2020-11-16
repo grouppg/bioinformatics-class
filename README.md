@@ -1,6 +1,6 @@
 # Consensus Sequence Generator
 
-This is a program that will tkae a fasta file with a protein or DNA MSA and return its consensus sequence in fasta format.
+This is a program that will take a fasta file with a protein or DNA MSA and return its consensus sequence in fasta format.
 
 ## Requirements
 * python 3.x
