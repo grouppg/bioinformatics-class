@@ -35,7 +35,8 @@ def get_consensus_seq(fasta_filename):
         
         filename = (fasta_filename)
         format = "fasta"
-        alignment = AlignIO.read(filename, format)
+        result = AlignIO.read(filename, format)
+        result_file.write(str(result))
                 
         result_file.close()
         
